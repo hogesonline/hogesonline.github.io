@@ -38,6 +38,10 @@ blockquote, q {
   blockquote:before, blockquote:after, q:before, q:after {
     content: '';
     content: none; }
+iframe {
+  display:  block;
+  margin:  auto;
+}
 
 table {
   border-collapse: collapse;
@@ -1242,7 +1246,8 @@ input[type="radio"] + label:before {
     margin: 0 0 3em 0;
     width: 100%; }
     .image.main img {
-      width: 100%; }
+      width: 50%;
+      margin:auto; }
 
 a.image {
   overflow: hidden; }
