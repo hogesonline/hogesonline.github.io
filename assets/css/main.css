@@ -1,5 +1,5 @@
 @import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Exo+2:400,600,400italic,600italic');");
 /*
 	Editorial by HTML5 UP
 	html5up.net | @ajlkn
@@ -132,7 +132,7 @@ p {
 
 h1, h2, h3, h4, h5, h6 {
   color: #3d4449;
-  font-family: "Roboto Slab", serif;
+  font-family: "Exo 2", sans-serif;
   font-weight: 700;
   line-height: 1.5;
   margin: 0 0 1em 0; }
